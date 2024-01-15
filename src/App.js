@@ -6,7 +6,7 @@ import OperationButton from "./OperationButton";
 export const ACTIONS = {
     ADD_DIGIT: 'add-digit',
     CHOOSE__OPERATION: 'choose-operation',
-    CLEAR: 'clear(s)
+    CLEAR: 'clear',
     DELETE_DIGIT: 'delete-digit',
     EVALUATE: 'evaluate'
 }
